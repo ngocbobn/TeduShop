@@ -1,0 +1,9 @@
+D:\Web\TeduShop\Model\bin\Debug\Model.dll.config
+D:\Web\TeduShop\Model\bin\Debug\Model.dll
+D:\Web\TeduShop\Model\bin\Debug\Model.pdb
+D:\Web\TeduShop\Model\bin\Debug\EntityFramework.dll
+D:\Web\TeduShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Web\TeduShop\Model\bin\Debug\EntityFramework.xml
+D:\Web\TeduShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Web\TeduShop\Model\obj\Debug\Model.dll
+D:\Web\TeduShop\Model\obj\Debug\Model.pdb
